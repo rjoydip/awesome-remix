@@ -23,6 +23,19 @@
 * [Blues Stack](https://github.com/remix-run/blues-stack)
 * [Indie Stack](https://github.com/remix-run/indie-stack)
 * [Grunge Stack](https://github.com/remix-run/grunge-stack)
+* [Speed Metal Stack](https://github.com/Girish21/speed-metal-stack)
+* [Remix Worker Template](https://github.com/edmundhung/remix-worker-template)
+* [Supa Fly Stack](https://github.com/rphlmr/supa-fly-stack)
+* [Remix Starter Serverless](https://github.com/shamsup/remix-starter-serverless)
+* [Azure Remix Stack](https://github.com/aaronpowell/azure-remix-stack)
+* [Melodic Death Metal](https://github.com/baijanathTharu/melodic-death-metal)
+* [Chakra Remix Blues Stack](https://github.com/anubra266/chakra-remix-stack-blues)
+* [Techno Stack](https://github.com/BenMcH/techno-stack)
+* [K-pop Stack](https://github.com/netlify-templates/kpop-stack)
+* [RockSpec Stacks](https://github.com/ShafSpecs/rockspec-stack)
+* [Chop Suey Stack](https://github.com/jkcorrea/remix-chop-suey-stack)
+* [DnB Stack](https://github.com/robipop22/dnb-stack)
+* [Eurodance Stack](https://github.com/VulcanJS/eurodance-stack)
 * [Starter Vercel](https://github.com/remix-run/starter-vercel) - Archived
 * [Starter Architect](https://github.com/remix-run/starter-architect) - Archived
 * [Starter Express](https://github.com/remix-run/starter-express) - Archived
