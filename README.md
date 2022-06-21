@@ -7,6 +7,7 @@
 ## Contents
 
 * [Official](#official)
+* [Helper](#helper)
 * [Starter Project](#starter-project)
 * [Examples](#examples)
 * [Conference](#conference)
@@ -17,6 +18,10 @@
 * [Remix Stacks](https://remix.run/docs/en/v1/pages/stacks) - Stacks
 * [Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes#jokes-app-tutorial) - Jokes App
 * [Developer Blog](https://remix.run/docs/en/v1/tutorials/blog) - Blog
+
+## Helper
+
+* [Remix Routers](https://github.com/brophdawg11/remix-routers)
 
 ## Starter Project
 
@@ -44,6 +49,7 @@
 
 * [Basic](https://github.com/remix-run/remix/tree/main/examples/basic)
 * [Blog](https://github.com/remix-run/remix/tree/main/examples/blog-tutorial)
+* [Remix Example App](https://github.com/sawirricardo/remix-realworld)
 * [Bullmq Task Queue](https://github.com/remix-run/remix/tree/main/examples/bullmq-task-queue)
 * [Catch Boundary](https://github.com/remix-run/remix/tree/main/examples/catch-boundary)
 * [Chakra UI](https://github.com/remix-run/remix/tree/main/examples/chakra-ui)
