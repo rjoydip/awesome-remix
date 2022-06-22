@@ -4,7 +4,7 @@
   "description": "> A curated list of awesome [**remix**][remix] resources.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "awesome-lint"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rjoydip/awesome-remix/issues"
   },
-  "homepage": "https://github.com/rjoydip/awesome-remix#readme"
+  "homepage": "https://github.com/rjoydip/awesome-remix#readme",
+  "devDependencies": {
+    "awesome-lint": "^0.18.0"
+  }
 }

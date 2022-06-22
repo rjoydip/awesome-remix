@@ -1,3 +1,5 @@
+<!--lint disable awesome-git-repo-age awesome-heading awesome-badge -->
+
 # awesome-remix [![awesome][awesome-badge]][awesome]
 
 > A curated list of awesome [**remix**][remix] resources.
@@ -20,10 +22,10 @@
 
 ## Official
 
-* [Remix Docs](https://remix.run/docs/en/v1) - Docs V1
-* [Remix Stacks](https://remix.run/docs/en/v1/pages/stacks) - Stacks
-* [Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes#jokes-app-tutorial) - Jokes App
-* [Developer Blog](https://remix.run/docs/en/v1/tutorials/blog) - Blog
+* [Remix Docs](https://remix.run/docs/en/v1) - Docs V1.
+* [Remix Stacks](https://remix.run/docs/en/v1/pages/stacks) - Stacks.
+* [Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes#jokes-app-tutorial) - Jokes App.
+* [Developer Blog](https://remix.run/docs/en/v1/tutorials/blog) - Blog.
 
 ## Starter
 
@@ -52,7 +54,7 @@
 * [Remix Minimal Stack](https://github.com/ostwilkens/remix-minimal-stack)
 * [Remix Trance Stack](https://github.com/meza/trance-stack)
 * [Welcome to Remix!](https://github.com/pacexy/remixin)
-* [Remix Techno Stack](https://github.com/Maxximus007/tech-house-stack) - Work In Progress
+* [Remix Techno Stack](https://github.com/Maxximus007/tech-house-stack) - Work In Progress.
 * [Welcome to the Remix Djent Stack](https://github.com/mayank99/remix-djent-stack)
 * [Remix stack - mongo](https://github.com/SpiffGreen/remix-mongo)
 * [Remix stack for heroku](https://github.com/TerribleDev/remix-heroku)
@@ -85,18 +87,18 @@
 * [Remix RockSpec Stack](https://github.com/ShafSpecs/rockspec-stack)
 * [docs-starter](https://github.com/GraphCMS/docs-starter)
 * [Remix Speed Metal Stack](https://github.com/Girish21/speed-metal-stack)
-* [remix-azure-template](https://github.com/danielgary/remix-azure-template) - Remix app deployed to Azure Functions
+* [remix-azure-template](https://github.com/danielgary/remix-azure-template) - Remix app deployed to Azure Functions.
 * [remix-nested-layouts](https://github.com/brookslybrand/remix-nested-layouts)
 * [remix-tailwind-starter](https://github.com/mcansh/remix-tailwind-starter)
 * [remix-on-netlify](https://github.com/ascorbic/remix-on-netlify)
 * [remix-css-modules](https://github.com/jacob-ebey/remix-css-modules)
 * [remix-auth-layouts-example](https://github.com/jacob-ebey/remix-auth-layouts-example/tree/main/app/routes)
 * [remix-starter-kit](https://github.com/one-aalam/remix-starter-kit) - Remix ft. Supabase(Auth, CRUD, Storage) with other essentials - TailwindCSS, DaisyUI, ESLint, etc.
-* [remix-edge-kit](https://github.com/one-aalam/remix-edge-kit) - Remix ft. Prisma(Railway.app/Planetscale)/FaunaDB/Supabase and other essentials but designed for Cloudflare workers
+* [remix-edge-kit](https://github.com/one-aalam/remix-edge-kit) - Remix ft. Prisma(Railway.app/Planetscale)/FaunaDB/Supabase and other essentials but designed for Cloudflare workers.
 
-* [Starter Vercel](https://github.com/remix-run/starter-vercel) - Archived
-* [Starter Architect](https://github.com/remix-run/starter-architect) - Archived
-* [Starter Express](https://github.com/remix-run/starter-express) - Archived
+* [Starter Vercel](https://github.com/remix-run/starter-vercel) - Archived.
+* [Starter Architect](https://github.com/remix-run/starter-architect) - Archived.
+* [Starter Express](https://github.com/remix-run/starter-express) - Archived.
 
 ## Examples
 
@@ -141,8 +143,8 @@
 * [Redis Upstash Session](https://github.com/remix-run/remix/tree/main/examples/redis-upstash-session)
 * [Remix Auth Auth0](https://github.com/remix-run/remix/tree/main/examples/remix-auth-auth0)
 * [Remix Auth From](https://github.com/remix-run/remix/tree/main/examples/remix-auth-form)
-* [Remix Auth Github](https://github.com/remix-run/remix/tree/main/examples/remix-auth-github)
-* [Remix Auth Supabase Github](https://github.com/remix-run/remix/tree/main/examples/remix-auth-supabase-github)
+* [Remix Auth GitHub](https://github.com/remix-run/remix/tree/main/examples/remix-auth-github)
+* [Remix Auth Supabase GitHub](https://github.com/remix-run/remix/tree/main/examples/remix-auth-supabase-github)
 * [Remix Auth Supabase](https://github.com/remix-run/remix/tree/main/examples/remix-auth-supabase)
 * [Route Modal](https://github.com/remix-run/remix/tree/main/examples/route-modal)
 * [Route Gen](https://github.com/remix-run/remix/tree/main/examples/route-gen)
@@ -197,20 +199,20 @@
 * [routes-gen](https://github.com/sandulat/routes-gen)  
 * [remix-etag](https://github.com/donavon/remix-etag)
 * [Remix SEO](https://github.com/balavishnuvj/remix-seo)
-* [remix-auth](https://github.com/sergiodxa/remix-auth) - Simple Authentication for Remix
-* [remix-utils](https://github.com/sergiodxa/remix-utils) - A set of utility functions and types to use with Remix.run
-* [remix-i18next](https://github.com/sergiodxa/remix-i18next) - The easiest way to translate your Remix apps
+* [remix-auth](https://github.com/sergiodxa/remix-auth) - Simple Authentication for Remix.
+* [remix-utils](https://github.com/sergiodxa/remix-utils) - A set of utility functions and types to use with Remix.run.
+* [remix-i18next](https://github.com/sergiodxa/remix-i18next) - The easiest way to translate your Remix apps.
 * [remix-seo](https://github.com/chaance/remix-seo) - A package for easily managing SEO meta and link tags in Remix.
-* [remix-params-helper](https://github.com/kiliman/remix-params-helper) - Helpers that make it simple to use Zod with URLSearchParams, FormData, and Remix params object
-* [remix-tailwind](https://github.com/itsMapleLeaf/remix-tailwind) - Use TailwindCSS with Remix without an extra build step
+* [remix-params-helper](https://github.com/kiliman/remix-params-helper) - Helpers that make it simple to use Zod with URLSearchParams, FormData, and Remix params object.
+* [remix-tailwind](https://github.com/itsMapleLeaf/remix-tailwind) - Use TailwindCSS with Remix without an extra build step.
 * [remix-validated-form](https://github.com/airjp73/remix-validated-form) - A ValidatedForm component and helpers for easy client and server side form validation.
 * [remix-themes](https://github.com/abereghici/remix-themes) - An abstraction for themes in your Remix app.
 * [remix-routes](https://github.com/yesmeck/remix-routes) - Typesafe routing for your Remix apps.
-* [remix-middleware](https://github.com/neurosnap/remix-middleware) - An express-like middleware system for remix loaders and actions
-* [remix-crash](https://github.com/xstevenyung/remix-crash) - Get better insight on why your Remix app crashed during development 💥
-* [remix-pwa](https://github.com/ShafSpecs/remix-pwa) - A package to integrate PWA features into Remix
-* [superjson-remix](https://github.com/donavon/superjson-remix) - A solution for Remix that allows you to send binary data from your loader to your React client app
-* [remix-etag](https://github.com/donavon/remix-etag) - Makes adding an ETag header to a response easy
+* [remix-middleware](https://github.com/neurosnap/remix-middleware) - An express-like middleware system for remix loaders and actions.
+* [remix-crash](https://github.com/xstevenyung/remix-crash) - Get better insight on why your Remix app crashed during development 💥.
+* [remix-pwa](https://github.com/ShafSpecs/remix-pwa) - A package to integrate PWA features into Remix.
+* [superjson-remix](https://github.com/donavon/superjson-remix) - A solution for Remix that allows you to send binary data from your loader to your React client app.
+* [remix-etag](https://github.com/donavon/remix-etag) - Makes adding an ETag header to a response easy.
 * [remix-domains](https://github.com/SeasonedSoftware/remix-domains/) - Decouple your business logic from your Remix actions and loaders. With first-class type inference from end to end.
 
 ## Snippets
@@ -279,8 +281,8 @@
 
 ## Conference
 
-* [Remix Conf 2022](https://remix.run/conf/2022) - Conference 2022
-* [Remix Conf 2023](https://remix.run/conf/2023) - Conference 2023
+* [Remix Conf 2022](https://remix.run/conf/2022) - Conference 2022.
+* [Remix Conf 2023](https://remix.run/conf/2023) - Conference 2023.
 
 ## Other
 
