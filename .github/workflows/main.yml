@@ -1,7 +1,10 @@
 name: main
 on:
-  - pull_request
-  - push
+  pull_request:
+    branches: [main]
+    paths:
+      - 'README.md'
+      - 'readme.md'
 jobs:
   build:
     runs-on: ubuntu-latest
