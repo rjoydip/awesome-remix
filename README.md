@@ -190,6 +190,7 @@
 * [Interactive Remix Routing](https://github.com/dilums/interactive-remix-routing)
 * [Remix Ink](https://github.com/one-aalam/remix-ink)
 * [jotyy/remix-portfolio](https://github.com/jotyy/remix-portfolio)
+* [Server-side Auth with Remix, Prisma, and the Web Platform](https://github.com/kentcdodds/auth-with-remix-talk)
 
 ## Utility
 
