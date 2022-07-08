@@ -10,9 +10,10 @@
 
 * [Official](#official)
 * [Starter/Stack](#starter)
-* [Examples](#examples)
+* [Testing](#testing)
 * [Utility](#utility)
 * [Snippets](#snippets)
+* [Examples](#examples)
 * [Videos](#videos)
 * [Blog Posts](#blog-posts)
 * [Lecture](#lecture)
@@ -99,6 +100,39 @@
 * [Starter Vercel](https://github.com/remix-run/starter-vercel) - Archived.
 * [Starter Architect](https://github.com/remix-run/starter-architect) - Archived.
 * [Starter Express](https://github.com/remix-run/starter-express) - Archived.
+
+## Testing
+
+* [remix-bun-testing](https://github.com/jacob-ebey/remix-bun-testing)
+
+## Utility
+
+* [Remix Routers](https://github.com/brophdawg11/remix-routers)
+* [remix-graphql](https://github.com/thomasheyenbrock/remix-graphql)
+* [remix-three](https://github.com/nickjs/remix-three)
+* [routes-gen](https://github.com/sandulat/routes-gen)  
+* [remix-etag](https://github.com/donavon/remix-etag)
+* [Remix SEO](https://github.com/balavishnuvj/remix-seo)
+* [remix-auth](https://github.com/sergiodxa/remix-auth) - Simple Authentication for Remix.
+* [remix-utils](https://github.com/sergiodxa/remix-utils) - A set of utility functions and types to use with Remix.run.
+* [remix-i18next](https://github.com/sergiodxa/remix-i18next) - The easiest way to translate your Remix apps.
+* [remix-seo](https://github.com/chaance/remix-seo) - A package for easily managing SEO meta and link tags in Remix.
+* [remix-params-helper](https://github.com/kiliman/remix-params-helper) - Helpers that make it simple to use Zod with URLSearchParams, FormData, and Remix params object.
+* [remix-tailwind](https://github.com/itsMapleLeaf/remix-tailwind) - Use TailwindCSS with Remix without an extra build step.
+* [remix-validated-form](https://github.com/airjp73/remix-validated-form) - A ValidatedForm component and helpers for easy client and server side form validation.
+* [remix-themes](https://github.com/abereghici/remix-themes) - An abstraction for themes in your Remix app.
+* [remix-routes](https://github.com/yesmeck/remix-routes) - Typesafe routing for your Remix apps.
+* [remix-middleware](https://github.com/neurosnap/remix-middleware) - An express-like middleware system for remix loaders and actions.
+* [remix-crash](https://github.com/xstevenyung/remix-crash) - Get better insight on why your Remix app crashed during development 💥.
+* [remix-pwa](https://github.com/ShafSpecs/remix-pwa) - A package to integrate PWA features into Remix.
+* [superjson-remix](https://github.com/donavon/superjson-remix) - A solution for Remix that allows you to send binary data from your loader to your React client app.
+* [remix-etag](https://github.com/donavon/remix-etag) - Makes adding an ETag header to a response easy.
+* [remix-domains](https://github.com/SeasonedSoftware/remix-domains/) - Decouple your business logic from your Remix actions and loaders. With first-class type inference from end to end.
+
+## Snippets
+
+* [HOWTO: Debug your server-side Remix code using VSCode](https://gist.github.com/kiliman/a9d7c874af03369a1d105a92560d89e9)
+* [sitemap.xml generator](https://gist.github.com/andrelandgraf/0112631dcdf6640e4bd44360d3e7a08e)
 
 ## Examples
 
@@ -191,35 +225,6 @@
 * [Remix Ink](https://github.com/one-aalam/remix-ink)
 * [jotyy/remix-portfolio](https://github.com/jotyy/remix-portfolio)
 * [Server-side Auth with Remix, Prisma, and the Web Platform](https://github.com/kentcdodds/auth-with-remix-talk)
-
-## Utility
-
-* [Remix Routers](https://github.com/brophdawg11/remix-routers)
-* [remix-graphql](https://github.com/thomasheyenbrock/remix-graphql)
-* [remix-three](https://github.com/nickjs/remix-three)
-* [routes-gen](https://github.com/sandulat/routes-gen)  
-* [remix-etag](https://github.com/donavon/remix-etag)
-* [Remix SEO](https://github.com/balavishnuvj/remix-seo)
-* [remix-auth](https://github.com/sergiodxa/remix-auth) - Simple Authentication for Remix.
-* [remix-utils](https://github.com/sergiodxa/remix-utils) - A set of utility functions and types to use with Remix.run.
-* [remix-i18next](https://github.com/sergiodxa/remix-i18next) - The easiest way to translate your Remix apps.
-* [remix-seo](https://github.com/chaance/remix-seo) - A package for easily managing SEO meta and link tags in Remix.
-* [remix-params-helper](https://github.com/kiliman/remix-params-helper) - Helpers that make it simple to use Zod with URLSearchParams, FormData, and Remix params object.
-* [remix-tailwind](https://github.com/itsMapleLeaf/remix-tailwind) - Use TailwindCSS with Remix without an extra build step.
-* [remix-validated-form](https://github.com/airjp73/remix-validated-form) - A ValidatedForm component and helpers for easy client and server side form validation.
-* [remix-themes](https://github.com/abereghici/remix-themes) - An abstraction for themes in your Remix app.
-* [remix-routes](https://github.com/yesmeck/remix-routes) - Typesafe routing for your Remix apps.
-* [remix-middleware](https://github.com/neurosnap/remix-middleware) - An express-like middleware system for remix loaders and actions.
-* [remix-crash](https://github.com/xstevenyung/remix-crash) - Get better insight on why your Remix app crashed during development 💥.
-* [remix-pwa](https://github.com/ShafSpecs/remix-pwa) - A package to integrate PWA features into Remix.
-* [superjson-remix](https://github.com/donavon/superjson-remix) - A solution for Remix that allows you to send binary data from your loader to your React client app.
-* [remix-etag](https://github.com/donavon/remix-etag) - Makes adding an ETag header to a response easy.
-* [remix-domains](https://github.com/SeasonedSoftware/remix-domains/) - Decouple your business logic from your Remix actions and loaders. With first-class type inference from end to end.
-
-## Snippets
-
-* [HOWTO: Debug your server-side Remix code using VSCode](https://gist.github.com/kiliman/a9d7c874af03369a1d105a92560d89e9)
-* [sitemap.xml generator](https://gist.github.com/andrelandgraf/0112631dcdf6640e4bd44360d3e7a08e)
 
 ## Videos
 
