@@ -97,6 +97,7 @@
 * [remix-starter-kit](https://github.com/one-aalam/remix-starter-kit) - Remix ft. Supabase(Auth, CRUD, Storage) with other essentials - TailwindCSS, DaisyUI, ESLint, etc.
 * [remix-edge-kit](https://github.com/one-aalam/remix-edge-kit) - Remix ft. Prisma(Railway.app/Planetscale)/FaunaDB/Supabase and other essentials but designed for Cloudflare workers.
 * [The Bossa Nova Stack](https://github.com/clerkinc/remix-bossa-nova-stack) - The Remix Stack with Clerk authentication, Supabase database, Chakra UI, testing, linting, and more.
+* [quick-stack](https://github.com/kentcdodds/quick-stack)
 * [Starter Vercel](https://github.com/remix-run/starter-vercel) - Archived.
 * [Starter Architect](https://github.com/remix-run/starter-architect) - Archived.
 * [Starter Express](https://github.com/remix-run/starter-express) - Archived.
