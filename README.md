@@ -12,6 +12,7 @@
 * [Starter/Stack](#starter)
 * [Testing](#testing)
 * [Utility](#utility)
+* [CLI](#cli)
 * [Snippets](#snippets)
 * [Examples](#examples)
 * [Videos](#videos)
@@ -130,6 +131,10 @@
 * [remix-etag](https://github.com/donavon/remix-etag) - Makes adding an ETag header to a response easy.
 * [remix-domains](https://github.com/SeasonedSoftware/remix-domains/) - Decouple your business logic from your Remix actions and loaders. With first-class type inference from end to end.
 * [Form component and utils for easy form validation in remix](https://github.com/airjp73/remix-validated-form)
+
+## CLI
+
+* [A CLI tool for Remix applications](https://github.com/kiliman/rmx-cli)
 
 ## Snippets
 
