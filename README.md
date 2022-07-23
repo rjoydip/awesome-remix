@@ -300,6 +300,7 @@
 ## Other
 
 * [Remix.run Wallpapers](https://github.com/AdsonCicilioti/remix-wallpapers)
+* [This is the Remix Discord Bot. It's hosted on fly](https://github.com/remix-run/remix-discord-bot)
 
 <!-- Definitions. -->
 
