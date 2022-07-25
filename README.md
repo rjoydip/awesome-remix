@@ -128,6 +128,7 @@
 * [remix-crash](https://github.com/xstevenyung/remix-crash) - Get better insight on why your Remix app crashed during development 💥.
 * [remix-pwa](https://github.com/ShafSpecs/remix-pwa) - A package to integrate PWA features into Remix.
 * [superjson-remix](https://github.com/donavon/superjson-remix) - A solution for Remix that allows you to send binary data from your loader to your React client app.
+* [remix-typedjson](https://github.com/kiliman/remix-typedjson) - This package is a replacement for superjson to use in your Remix app. 
 * [remix-etag](https://github.com/donavon/remix-etag) - Makes adding an ETag header to a response easy.
 * [remix-domains](https://github.com/SeasonedSoftware/remix-domains/) - Decouple your business logic from your Remix actions and loaders. With first-class type inference from end to end.
 * [Form component and utils for easy form validation in remix](https://github.com/airjp73/remix-validated-form)
