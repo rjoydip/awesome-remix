@@ -292,6 +292,7 @@
 
 * [Advanced Remix Workshop](https://github.com/kentcdodds/advanced-remix)
 * [Remix Workshop](https://github.com/kentcdodds/remix-workshop)
+* [Remix Fundamentals](https://github.com/FrontendMasters/remix-fundamentals) - Remix enables you to build fantastic user experiences for the web and feel happy with the code that got you there. Get a jumpstart on Remix with this workshop.
 
 ## Conference
 
