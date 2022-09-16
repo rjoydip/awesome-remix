@@ -133,6 +133,8 @@
 * [remix-etag](https://github.com/donavon/remix-etag) - Makes adding an ETag header to a response easy.
 * [remix-domains](https://github.com/SeasonedSoftware/remix-domains/) - Decouple your business logic from your Remix actions and loaders. With first-class type inference from end to end.
 * [Form component and utils for easy form validation in remix](https://github.com/airjp73/remix-validated-form)
+* [Remix Flat Routes](https://github.com/kiliman/remix-flat-routes) - Remix package to define routes using the flat-routes convention
+* [Remix Validity State](https://github.com/brophdawg11/remix-validity-state) - Enhanced HTML Inputs for Remix
 
 ## CLI
 
